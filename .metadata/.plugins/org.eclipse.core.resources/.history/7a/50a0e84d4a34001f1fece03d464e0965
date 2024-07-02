@@ -1,0 +1,5 @@
+package app.bankingapplication.demo;
+
+public class Account {
+
+}
